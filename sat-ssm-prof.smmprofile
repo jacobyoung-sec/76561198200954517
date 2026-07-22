@@ -1,0 +1,61 @@
+{
+  "profile": {
+    "mods": {
+      "CommunityRoadNetwork": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "DecorPlus": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "Decoration": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "EarlyHover": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "InfiniteNudge": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "InfiniteZoop": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "MoreDecorations": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "NoGasPillar": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "RefinedPower": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "SS_Mod": {
+        "version": ">=0.0.0",
+        "enabled": true
+      },
+      "SmartFoundations": {
+        "version": ">=0.0.0",
+        "enabled": true
+      }
+    },
+    "name": "Default",
+    "required_targets": [
+      "Windows"
+    ]
+  },
+  "lockfile": {
+    "mods": {},
+    "version": 1
+  },
+  "metadata": {
+    "gameVersion": 495413
+  }
+}
